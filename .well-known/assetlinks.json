@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.lordyal",
+  "target" : { "namespace": "android_app", "package_name": "com.manhnguyen.lordyal",
                "sha256_cert_fingerprints": ["52:72:92:B2:A9:06:C3:74:B8:5E:A6:23:B8:BA:30:1C:B6:E1:8B:50:01:F1:26:1B:62:F2:0F:74:43:AE:29:24"] }
 }]
